@@ -16,6 +16,10 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 		<vaadin.version>16.0.0</vaadin.version>
+		
+		<sonar.projectKey>dbo1001_UBU-TFG-gestion-aulas-informatica</sonar.projectKey>
+		<sonar.organization>dbo1001</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 
 	<parent>
